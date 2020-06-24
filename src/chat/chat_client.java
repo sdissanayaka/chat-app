@@ -162,7 +162,7 @@ public class chat_client extends javax.swing.JFrame {
                 msg_area.setText(msg_area.getText() + "\n Server : " + msgin);
             }
         } catch (Exception e) {
-            //bundl of exception here
+           
         }
     }
 
